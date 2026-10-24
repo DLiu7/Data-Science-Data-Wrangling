@@ -1,5 +1,10 @@
 Libraries Used:
-
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- openpyxl
+- isbnid
 
 Modules Used:
 
@@ -12,7 +17,15 @@ Alban
 
  
 Daniel
-- 
+- Part A: 
+  - Import Data
+  - Verify NetIDs
+  - Analyze RUID Lengths
+  - Compute Total Score
+- Part B: 
+  - Load the dataset
+  - Analyze genre distribution
+  - Process genres
 
 Milan
 - 
