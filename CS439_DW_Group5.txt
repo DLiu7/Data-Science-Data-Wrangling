@@ -1,13 +1,12 @@
 Libraries Used:
 - pandas
 - numpy
-- matplotlib
-- seaborn
 - openpyxl
 - isbnid
+- sklearn.preprocessing
 
 Modules Used:
-
+- collections
 
 
 Division of Labor:
@@ -32,4 +31,13 @@ Milan
   - Fixed whitespace bug in Process genres (genres were not stripped before top 10 check)
 
 Alban
-- 
+- Part A:
+  - Section statistics
+  - role/section pivot table
+  - timestamp conversion
+  - z-score normalization
+  - missing values
+  - duplicate removal
+  - swapped IDs
+- Part B:
+  - Rating pivot table
