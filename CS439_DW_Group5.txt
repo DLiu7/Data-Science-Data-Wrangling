@@ -28,4 +28,8 @@ Daniel
   - Process genres
 
 Milan
-- 
+- Part B:
+  - Explode genres
+  - Hyphenate ISBN numbers
+  - Extract ISBN components
+  - Fixed whitespace bug in Process genres (genres were not stripped before top 10 check)
