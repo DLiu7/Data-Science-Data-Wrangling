@@ -12,9 +12,6 @@ Modules Used:
 
 Division of Labor:
 
-Alban
-- 
-
  
 Daniel
 - Part A: 
@@ -33,3 +30,6 @@ Milan
   - Hyphenate ISBN numbers
   - Extract ISBN components
   - Fixed whitespace bug in Process genres (genres were not stripped before top 10 check)
+
+Alban
+- 
